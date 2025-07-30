@@ -9,6 +9,5 @@ This repo is for CH4130 Process Optimization course.
 ![QR Code](assets/qr.png)
 
 
-<p style="font-size:20px; color:black; ;text-align:center;">
-Or
-github.com -> search 'dissabnd' 
+OR
+**github.com -> search 'dissabnd'**
